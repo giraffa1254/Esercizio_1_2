@@ -31,7 +31,7 @@ public double Somma(int biscotti_comprati)
 }
     public void Stampa()
     {
-        System.out.println("Nome "+nome+"\tCognome "+ cognome+"\t anni "+anni);
+        System.out.println("Nome "+nome+"\tCognome "+ cognome+"\t annni "+anni);
     }
     public static void main(String[] args) {
         Prova p1=new Prova();
